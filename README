@@ -1,0 +1,5 @@
+1: substr use as a slice it is not part of ecmaScript  
+2: the spread synxtax ... is create the shallow copy of original array
+3: if want to cange the feaure od type script i have to change it from tsconfig.json
+4: how to make tsconfig.json by tsc --init
+4: tsc -w means to watch the changes in ts means ba baar baar tsc nhi krna prega
